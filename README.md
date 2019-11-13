@@ -11,7 +11,7 @@ The app can be found at https://movies-recommender-system.herokuapp.com/
 
 A blog regarding the application can be read on https://2series.github.io/post/moviesrecommender/
 
-I used Flask web framework to create the app in python code
+I used Flask web framework to create the app with python code
 
 ### Why Flask?
 * Easy to use
