@@ -5,11 +5,11 @@ A Movies Recommender System built with Python.
 
 Using the IMDB 5000 movie dataset.
 
-Link to dataset :- https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
+[Link to dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
 
-The app can be found at https://movies-recommender-system.herokuapp.com/
+[The app can be found](https://movies-recommender-system.herokuapp.com/)
 
-A blog regarding the application can be read on https://2series.github.io/post/moviesrecommender/
+[A blog regarding the application can be read](https://2series.github.io/post/moviesrecommender/)
 
 I used Flask web framework to create the app with python code
 
