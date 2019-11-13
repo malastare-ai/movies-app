@@ -7,8 +7,7 @@ Using the IMDB 5000 movie dataset.
 
 Link to dataset :- https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 
-Link to the web application 
-https://git.heroku.com/movies-recommender-system.git
+The app can be found at https://movies-recommender-system.herokuapp.com/ Add domain
 
 A blog regarding the application can be read on https://2series.github.io/post/moviesrecommender/
 
